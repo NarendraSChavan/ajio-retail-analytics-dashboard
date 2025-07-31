@@ -3,9 +3,9 @@
 This project analyzes sales, customers, transactions, and returns data for AJIO (an e-commerce platform). It also includes forecasting models to predict future sales.
 
 ## 🔧 Tools Used
-- Power BI (for Dashboard & KPIs)
+- Power BI (for Dashboard)
 - Python (for data processing & forecasting)
-- Pandas, Matplotlib, Seaborn, Scikit-learn
+- Pandas, Matplotlib, Seaborn, Prophet
 - GitHub (for version control)
 
 ## 📁 Dataset Overview
